@@ -1,4 +1,4 @@
-Freshman21
+英語版のサイト要注意
 ==========
 
 Freshman21 is a Jekyll blog theme, base on theme [Freshman](http://github.com/yulijia/freshman). 
